@@ -1,3 +1,4 @@
-PXEBootToLAN,Disable
-SecureBoot,Enable
-USBBoot,Disable
+Setting,Value;
+PXEBootToLAN,Disable;
+SecureBoot,Enable;
+USBBoot,Disable;
